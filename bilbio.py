@@ -11,7 +11,7 @@ class Libro:
     def prestar(self): # Cambia el estado del libro a prestado
         if self.disponible:
             self.disponible = False
-            print(f"El libro '{self.titulo}' ha sido prestado.")
+            print(f"El libro '{self.titulo}' ha sido.")
         else:
             print(f"El libro '{self.titulo}' no está disponible.")
 
