@@ -1,6 +1,6 @@
 # ==========================================
 # Sistema de Biblioteca - Ejemplo práctico
-creado por jhon
+
 # ==========================================
 
 class Libro:
