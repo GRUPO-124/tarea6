@@ -1,6 +1,6 @@
 # ==========================================
 # Sistema de Biblioteca - Ejemplo práctico
-## prueba de git
+## prueba de actualizacion
 # ==========================================
 
 class Libro:
